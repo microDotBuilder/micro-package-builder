@@ -1,7 +1,7 @@
 {
   "name": "@micro-builder/package-builder",
   "description": "An CLI tool that installs tailwindcss in your project. ",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "license": "MIT",
   "main": "dist/index.js",

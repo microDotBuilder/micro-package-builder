@@ -1,5 +1,5 @@
 {
-  "name": "@micro.builder.io/package-builder",
+  "name": "@micro-builder/package-builder",
   "description": "An CLI tool that installs tailwindcss in your project. ",
   "version": "0.0.1",
   "type": "module",
